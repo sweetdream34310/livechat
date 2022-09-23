@@ -21,7 +21,7 @@ define('JAKDB_PREFIX', 'lc3_'); // Database prefix use (a-z) and (_)
 define('DB_PASS_HASH', '');
 
 // Define your site url, for example: www.jakweb.ch (https://www.jakweb.ch/faq/a/98/full-site-domain)
-define('FULL_SITE_DOMAIN', 'localhost');
+define('FULL_SITE_DOMAIN', 'https://livechat-php.herokuapp.com');
 
 // URL Rewrite
 define('JAK_USE_APACHE', 0); // Use 1 for Apache / Nginx (SEO URL's) or 0 for all others
